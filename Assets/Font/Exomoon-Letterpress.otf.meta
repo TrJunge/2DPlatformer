@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b90d7d028f09a4fbe9031ccd5c342b43
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Exomoon
+  fontNames:
+  - Exomoon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a19bcdf4dfca945ddb272378976e79d2, type: 3}
+  - {fileID: 12800000, guid: 5c857cfc5df2e488bbf4df796c05b477, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
